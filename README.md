@@ -10,7 +10,7 @@ ToneForge makes it effortless to combine elements from different songs to create
 
 ## Crypto Token
 To further advance our research and make ToneForge accessible to more people, we’re launching our token on Solana. I believe this will accelerate our AI development efforts!
-> $ToneForge Contract: 
+`$ToneForge Contract: 68dqfz1GkzDuntB3aPpgbN8rbJxQHynxjuAU6JPxpump`
 
 ## How does it work?
 - Music Source Separation is performed with the [Demucs](https://github.com/facebookresearch/demucs) neural network
